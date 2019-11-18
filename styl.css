@@ -1,6 +1,6 @@
 body {
 background: #00ffcc;
 }
-.menu {color: white;
+.menu {color: white;}
 div.menu{float: left;}
-div.img{float: left;}
+div.right{float: right;}
